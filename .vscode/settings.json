@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "[Maulana Rizaldy]-3C-Game.sln"
+    "dotnet.defaultSolution": "Maulana-Rizaldy-3C-Game.sln"
 }
